@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Teste2Android</string>
+    <string name="nome">Nome</string>
+    <string name="sexo">Sexo</string>
+    <string name="morada">Morada</string>
+    <string name="telefone">Telefone</string>
+    <string name="gravar">Gravar</string>
+    <string name="listar">Listar</string>
+</resources>
